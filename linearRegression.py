@@ -18,7 +18,7 @@ LM = LinearRegression()
 LM.fit(np.array(x).reshape(-1,1),y)
 
 
-y_hat = LM.predict(np.array(x).reshape(-1,1),y)
+y_hat = LM.predict(np.array(x).reshape(-1,1))
 
 
 plt.plot(y,color='r')

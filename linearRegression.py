@@ -22,3 +22,4 @@ y_hat = LM.predict(np.array(x).reshape(-1,1),y)
 
 
 plt.plot(y,color='r')
+plt.plot(y_hat,color='g')

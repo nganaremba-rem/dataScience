@@ -1,0 +1,132 @@
+Sl No.,Market,Type of fish,Price per KG,Size,Is fresh or dried,Fish Location,Transportation Charge,Sold Outside or Inside
+1,Pishum Thong,Grass carp,270,Medium,Fresh,Mayang Imphal,250,Outside
+2,Pishum Thong,Grass carp,280,Large,Fresh,Mayang Imphal,250,Outside
+3,Pishum Thong,Grass carp,300,3kg above,Fresh,Mayang Imphal,250,Outside
+4,Pishum Thong,Common carp,280,Large,Fresh,Mayang Imphal,250,Outside
+5,Pishum Thong,Rohu,260,Small,Fresh,Mayang Imphal,250,Outside
+6,Pishum Thong,Tunghanbi,180,Medium,Fresh,Mayang Imphal,250,Outside
+7,Pishum Thong,Ngamu,450,Medium,Fresh,Mayang Imphal,250,Outside
+8,Pishum Thong,Porong,400,Medium,Fresh,Mayang Imphal,250,Outside
+9,Pishum Thong,Porong,350,Small,Fresh,Mayang Imphal,250,Outside
+10,Pishum Thong,Ukabi,600,Medium,Fresh,Mayang Imphal,250,Outside
+11,Pishum Thong,Ukabi,450,Small,Fresh,Mayang Imphal,250,Outside
+12,Pishum Thong,Ngakra,1400,Large,Fresh,Mayang Imphal,250,Outside
+13,Pishum Thong,Ngakra,1300,Small,Fresh,Mayang Imphal,250,Outside
+14,Pishum Thong,Ngachik,700,Large,Fresh,Mayang Imphal,250,Outside
+15,Pishum Thong,Ngachik,600,Medium,Fresh,Mayang Imphal,250,Outside
+16,Pishum Thong,Ngachik,550,Small,Fresh,Mayang Imphal,250,Outside
+17,Pishum Thong,Muka Nga,600,Medium,Fresh,Mayang Imphal,250,Outside
+18,Pishum Thong,Ngasang,600,Medium,Fresh,Mayang Imphal,250,Outside
+19,Pishum Thong,Pengba,600,Medium,Fresh,Mayang Imphal,250,Outside
+20,Pishum Thong,Pengba,400,Small,Fresh,Mayang Imphal,250,Outside
+21,Pishum Thong,Bao,600,Medium,Fresh,Mayang Imphal,250,Outside
+22,Pishum Thong,Bao,300,Small,Fresh,Mayang Imphal,250,Outside
+23,Pishum Thong,Khajing,550,Medium,Fresh,Mayang Imphal,250,Outside
+24,Pishum Thong,Phabou nga,300,Medium,Fresh,Mayang Imphal,250,Outside
+25,Pishum Thong,Khabak,600,Large,Fresh,Mayang Imphal,250,Outside
+26,Pishum Thong,Ngaton,600,Large,Fresh,Mayang Imphal,250,Outside
+27,Pishum Thong,Ngapemma,400,Medium,Fresh,Mayang Imphal,250,Outside
+28,Pishum Thong,Silver carp,180,Medium,Fresh,Mayang Imphal,250,Outside
+29,Pishum Thong,Sareng,320,Large,Fresh,Andra,300,Inside
+30,Pishum Thong,Moreh Rohu,220,Large,Fresh,Moreh,100,Inside
+31,Pishum Thong,Pengba Import,170,Large,Fresh,Moreh,100,Inside
+32,Pishum Thong,Ngahei,170,Large,Fresh,Moreh,100,Inside
+33,Pishum Thong,Mackeral,250,Medium,Frozen,West Bengal,200,Inside
+34,Pishum Thong,Hilsa,1250,Large,Frozen,West Bengal,200,Inside
+35,Pishum Thong,Nunga,300,Large,Fresh,Moreh,100,Inside
+36,Pishum Thong,Tuna,250,Large,Frozen,West Bengal,200,Inside
+37,Pishum Thong,Alisha,250,Small,Fresh,West Bengal,100,Inside
+38,Pishum Thong,Hilsa Manbi,400,Small,Frozen,Siri,100,Inside
+39,Kwakeithel,Rohu,400,Small,Dried,Nambol,450,Outside
+40,Kwakeithel,Tunghanbi,350,Medium,Dried,Nambol,450,Outside
+41,Kwakeithel,Ngaphai,800,Medium,Dried,Loktak,450,Outside
+42,Kwakeithel,Ngamu,650,Medium,Dried,Loktak,450,Outside
+43,Kwakeithel,Ngapemma,800,Medium,Dried,Loktak,450,Outside
+44,Kwakeithel,Ngamhai,1400,Medium,Dried,Loktak,450,Outside
+45,Kwakeithel,Nainon Ngamu,950,Medium,Dried,Loktak,450,Outside
+46,Kwakeithel,Phabou nga,500,Medium,Dried,Loktak,450,Outside
+47,Kwakeithel,Muka Nga,1500,Medium,Dried,Loktak,450,Outside
+48,Ima Keithel,Ngahei,170,Mixed,No,Imported,530,Outside
+49,Ima Keithel,Pengba,160,Mixed,No,Imported,530,Outside
+50,Ima Keithel,Tuna,220,Mixed,No,Imported,530,Outside
+51,Ima Keithel,Sukhiya,270,Mixed,No,Imported,530,Outside
+52,Ima Keithel,Ukabi,180,Small,No,Imported,530,Outside
+53,Ima Keithel,Ngapai,500,Large,No,Imported,530,Outside
+54,Ima Keithel,Puklaobi,250,Medium,Yes,Local,500,Outside
+55,Ima Keithel,Puri,270,Medium,Yes,Local,500,Outside
+56,Ima Keithel,Rohu,270,Medium,Yes,Local,500,Outside
+57,Ima Keithel,Sareng,400,Large,Yes,Local,500,Outside
+58,Ima Keithel,Ngakra,1500,Large,Yes,Local,500,Outside
+59,Ima Keithel,Ngakijou,3000,Medium,Yes,Local,500,Outside
+60,Ima Keithel,Mukanga,700,Small,Yes,Local,500,Outside
+61,Ima Keithel,Ngaten,450,Small,Yes,Local,500,Outside
+62,Ima Keithel,Ngapai,450,Large,Yes,Local,500,Outside
+63,Ima Keithel,Ngachou,700,Large,Yes,Local,500,Outside
+64,Ima Keithel,Ngarin,700,Mixed,Yes,Local,500,Outside
+65,Ima Keithel,Porom,400,Large,Yes,Local,500,Outside
+66,Ima Keithel,Nganal,500,Large,Yes,Local,500,Outside
+67,Ima Keithel,Ukabi,800,Large,Yes,Local,500,Outside
+68,Ima Keithel,Napi chabi,260,Large,Yes,Local,450,Inside
+69,Ima Keithel,Puklaobi,300,Large,Yes,Local,450,Inside
+70,Ima Keithel,Puklaobi,250,Small,Yes,Local,400,Inside
+71,Ima Keithel,Sareng,350,Small,Yes,Local,400,Inside
+72,Ima Keithel,Ngahei,150,Large,No,Imported,500,Inside
+73,Ima Keithel,Sareng,350,Large,No,Imported,500,Inside
+74,Ima Keithel,Sareng,300,Large,No,Imported,2500,Outside
+75,Ima Keithel,Ellisha,900,Large,No,Imported,2500,Outside
+76,Ima Keithel,Tuna,200,Large,No,Imported,2500,Outside
+77,Ima Keithel,Meitei Ngamu,1000,Large,Yes,Local,400,Outside
+78,Ima Keithel,Ngamu Bokola,350,Large,Yes,Local,400,Outside
+79,Ima Keithel,Silver carp,150,Large,No,Imported,400,Outside
+80,Ima Keithel,Tunghanbi,140,Large,Yes,Local,300,Outside
+81,Ima Keithel,Ukabi,600,Small,Yes,Local,300,Outside
+82,Ima Keithel,Porom,350,Large,Yes,Local,400,Outside
+83,Sana Keithel,Moreh Rohu,180,large,Fresh,Local,350,Outside
+84,Sana Keithel,Rou,250,Small,Fresh,Local,130,Outside 
+85,Sana Keithel,Tunghanbi ,200,Large,Fresh,Local,130,Outside 
+86,Sana Keithel,Grasscarp,280,Large,Fresh,Local ,130,Outside 
+87,Sana Keithel,Common carp,250,Medium,Fresh,Local,130,Outside 
+88,Sana Keithel,Kori ,250,Small,Fresh,Local,130,Outside 
+89,Sana Keithel,Porom,350,Medium,Fresh,Local,130,Outside 
+90,Sana Keithel,Ngamu,400,Small,Fresh,Local,130,Outside 
+91,Sana Keithel,Silver carp,150,Medium,Fresh,Local,200,Outside 
+92,Sana Keithel,Ngakra,1200,Medium,Fresh,Local,200,Outside 
+93,Sana Keithel,Moreh Ngakra,300,Medium,Fresh,Local,200,Outside 
+94,Sana Keithel,Ukabi,600,Medium,Fresh,Local,200,Outside 
+95,Sana Keithel,Ukabi,400,Small,Fresh,Local,200,Outside 
+96,Sana Keithel,Khajing ,500,Small,Fresh,Local,150,Outside 
+97,Sana Keithel,Ngachik,600,Small,Fresh,Local,150,Outside 
+98,Sana Keithel,Ngaton,500,Small,Fresh,Local,150,Outside 
+99,Sana Keithel,Ngapai,400,small,Fresh,Local,150,Outside 
+100,Sana Keithel,Ngarang,500,small,Fresh,Local,150,Outside 
+101,Sana Keithel,Phabou Nga,250,small,Fresh,Local,150,Outside 
+102,Sana Keithel,Ngasang,400,Small,Fresh,Local,150,Outside 
+103,Sana Keithel,Ngabemma,300,Small,Fresh,Local,150,Outside 
+104,Sana Keithel,Mirgin,250,Medium,Fresh,Local,150,Outside 
+105,Sana Keithel,Ngamu Bogra,300,Medium,Fresh,Local,150,Outside 
+106,Sana Keithel,Moreh Rou ,180,Small,Frozen,Imported,350,Outside
+107,Sana Keithel,India Rou ,190,Medium,Frozen,Imported,350,Outside
+108,Sana Keithel,Pengba,180,Medium,Frozen,Imported,350,Outside
+109,Sana Keithel,Ngahei ,180,large,Frozen,Imported,350,Outside
+110,Sana Keithel,Nunga,300,Large,Frozen,Imported,350,Outside
+111,Sana Keithel,Ahila ,240,Medium,Frozen,Imported,350,Outside
+112,Sana Keithel,Ngahei ,190,Large,Frozen,Imported,90,Outside
+113,Sana Keithel,Rou,220,Large,Frozen,Imported,90,Outside
+114,Sana Keithel,Pengba,190,Medium,Frozen,Imported,90,Outside
+115,Sana Keithel,Ahila,350,Large,Frozen,Imported,90,Outside
+116,Sana Keithel,Rou,500,Small,Dried,Local,300,Inside
+117,Sana Keithel,Ngahou,500,Small,Dried,Local,300,Inside
+118,Sana Keithel,Kori ,500,Small,Dried,Local,300,Inside
+119,Sana Keithel,Muka Nga,2000,Small,Dried,Local,300,Inside
+120,Sana Keithel,Khajing ,1800,Small,Dried,Local,300,Inside
+121,Sana Keithel,Phabou nga,500,Small,Dried,Local,300,Inside
+122,Sana Keithel,Ngapai,1200,Small,Dried,Local,300,Inside
+123,Sana Keithel,Ngamu,250,Small,Dried,Local,300,Inside
+124,Sana Keithel,Nylon ,1100,Small,Dried,Local,300,Inside
+125,Sana Keithel,Ngaphak,500,Small,Dried,Local,300,Inside
+126,Sana Keithel,Thumyakpi,460,Small,Dried,Local,300,Inside
+127,Sana Keithel,Ngachek Laobi,800,Small,Dried,Local,300,Inside
+128,Sana Keithel,Ngaton Ngari,600,Small,Dried,Local,300,Inside
+129,Sana Keithel,Khajing Akangba,800,Small,Dried,Local,300,Inside
+130,Sana Keithel,Utong Ngari,480,Small,Dried,Local,300,Inside
+131,Sana Keithel,Porong ,500,Small,Dried,Local,300,Inside

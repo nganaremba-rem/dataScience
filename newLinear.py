@@ -5,6 +5,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.linear_model import LinearRegression
 
 data = pd.read_csv('https://raw.githubusercontent.com/remku/fishData/main/FishAllTogetherFinal.csv')
+# If you wanna print the first 10 data use 
+# data.head(10)
 
 # Filling missing data and Encoding text data into number
 data = data.fillna(method = 'ffill')
